@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.mat-form-field-appearance-fill .mat-form-field-flex{
+    background-color: #ffffff !important;
+  }
+
+  .mat-form-field-appearance-fill .mat-form-field-flex {
+    border: 1px solid #ced4da;
+  }
+  .mat-form-field {
+    display: block !important;
+    height: calc(1.5em + .75rem + 2px);
+  }

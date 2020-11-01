@@ -1,0 +1,28 @@
+form {
+    box-shadow: 2px 3px 7px 2px #ccc;
+    margin: 20px;
+    padding: 20px;
+
+}
+.row {
+    margin-bottom: 12px;
+}
+
+
+  .form-input {
+    display: inline-block;
+  }
+
+  .form-field {
+      margin: 10px;
+  }
+  .formGroup {
+    text-align: center;
+  }
+  label {
+      text-align: initial;
+  }
+  .heading {
+      text-align: center;
+      margin: 30px;
+  }
